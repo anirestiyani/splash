@@ -1,0 +1,2 @@
+# splash
+belajar splashscreen
